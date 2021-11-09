@@ -1,6 +1,6 @@
 # productManagementInternTask
 
-● What new features will you build? What are your assumptions?
+● What new features will you build? What are your assumptions?\n
 ● How does your new feature look? (Hint: consider using wireframes or use pen/paper to
 draw screens)
 ● How might you market this feature?
